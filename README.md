@@ -6,7 +6,7 @@
   <img src="# 🛡️ CyberSecurity Portfolio | Kadiman Gamage
 
 <p align="center">
-  <img src="./Screenshot.jpg" alt="Portfolio Preview" width="800px" style="border-radius: 10px; border: 2px solid #00ff6a;">
+  <img src="./Screenshot.png" alt="Portfolio Preview" width="800px" style="border-radius: 10px; border: 2px solid #00ff6a;">
 </p>
 
 <p align="center">

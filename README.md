@@ -1,4 +1,4 @@
-# 🛡️ CyberSecurity Portfolio | Kadiman Gamage
+# 🛡️ Personal Portfolio | Kadiman Gamage
 
 
 

@@ -1,7 +1,6 @@
 # 🛡️ CyberSecurity Portfolio | Kadiman Gamage
 
-<p align="center">
-  <img src="# 🛡️ CyberSecurity Portfolio | Kadiman Gamage
+
 
 <p align="center">
   <img src="# 🛡️ CyberSecurity Portfolio | Kadiman Gamage
